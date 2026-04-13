@@ -72,3 +72,61 @@ Truy cập UI tự động của hệ thống tại URL: **http://127.0.0.1:8000
 
 ---
 *Generated manually by AI Sales Assistant.*
+# Phân loại Intent (Intent Descriptions)
+
+Tài liệu này mô tả chi tiết 6 nhãn ý định (intent labels) chính được sử dụng trong tập dữ liệu huấn luyện và dự đoán của hệ thống **AI Sales Assistant**. Mỗi intent đại diện cho một mục đích cụ thể trong luồng giao tiếp của người dùng.
+
+---
+
+### 1. `product_search` (Tìm kiếm sản phẩm)
+- **Mô tả:** Khách hàng muốn tìm xem hệ thống (cửa hàng) có bán hoặc kinh doanh một dòng sản phẩm điện thoại / máy tính bảng cụ thể nào đó hay không.
+- **Ví dụ câu hỏi (`current_query`):**
+  - *"Shop có Xiaomi 13 hông?"*
+  - *"Cho chú hỏi có bán Samsung Galaxy S24 không?"*
+  - *"Bên mình còn iPhone 14 không em?"*
+
+---
+
+### 2. `product_detail` (Chi tiết & Thông số kỹ thuật)
+- **Mô tả:** Khách hàng thắc mắc về thông số cấu hình, độ bền, trải nghiệm thời lượng pin hoặc tình trạng tỏa nhiệt khi sử dụng một thiết bị di động.
+- **Ví dụ câu hỏi (`current_query`):**
+  - *"Máy này pin có trâu không cháu?"*
+  - *"Dùng lâu có nóng máy không?"*
+  - *"Cấu hình chơi game ổn không ạ?"*
+
+---
+
+### 3. `product_compare` (So sánh sản phẩm)
+- **Mô tả:** Người dùng phân vân giữa hai (hoặc nhiều) phiên bản, hãng sản xuất khác nhau và yêu cầu bot tư vấn so sánh giữa thiết bị họ đang quan tâm với một đối thủ khác.
+- **Ví dụ câu hỏi (`current_query`):**
+  - *"So giúp anh với Samsung được không?"*
+  - *"So với Xiaomi 13 thì cái nào bền hơn?"*
+  - *"Chơi game nên chọn máy nào giữa hai con này?"*
+
+---
+
+### 4. `product_inventory` (Tồn kho sản phẩm tại vị trí)
+- **Mô tả:** Ý định khách hàng muốn kiểm tra xem một loại sản phẩm có còn hàng sẵn ở một địa điểm/huyện/tỉnh thành cụ thể hay là gần nhà khách hay không.
+- **Ví dụ câu hỏi (`current_query`):**
+  - *"Gần nhà cô có sẵn không con?"*
+  - *"Ở Bình Dương còn hàng không em?"*
+  - *"Bình Dương còn máy này không?"*
+
+---
+
+### 5. `product_promotion` (Khuyến mãi & Thanh toán)
+- **Mô tả:** Khách hàng quan tâm đến chính sách giá, ưu đãi, giảm giá thanh toán qua các ngân hàng đối tác hoặc khuyến mãi dành cho các tệp khách đặc biệt (HSSV).
+- **Ví dụ câu hỏi (`current_query`):**
+  - *"Hiện máy này có khuyến mãi gì không?"*
+  - *"Có ưu đãi gì cho học sinh sinh viên không?"*
+  - *"Thanh toán qua Sacombank có giảm không em?"*
+
+---
+
+### 6. `shop_lookup` (Tìm kiếm thông tin cửa hàng)
+- **Mô tả:** Khách hàng muốn biết địa chỉ cụ thể của cơ sở đang hoạt động, yêu cầu định vị cửa hàng nằm trong một quận/huyện/tỉnh nào đó.
+- **Ví dụ câu hỏi (`current_query`):**
+  - *"Chỉ chú shop gần đây với"*
+  - *"Nhà ở Thủ Đức thì mua ở đâu gần nhất?"*
+  - *"Có shop nào gần Biên Hòa Đồng Nai không?"*
+
