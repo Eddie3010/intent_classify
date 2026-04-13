@@ -1,0 +1,1001 @@
+previous_intent,previous_bot_response,current_query,current_intent
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Shop có Xiaomi 13 hông?,product_search
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Ở Quận 7 còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Ở Thủ Đức còn hàng không em?,product_inventory
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có shop nào gần Hóc Môn không?,shop_lookup
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",So với iPad Gen 10 thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Bình Dương còn máy này không?,product_inventory
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chỉ chú shop gần đây với,shop_lookup
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So với Xiaomi 13 thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Máy này pin có trâu không cháu?,product_detail
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Shop có OPPO Reno hông?,product_search
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua VPBank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán Samsung Galaxy S24 không?,product_search
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Ở Hóc Môn còn hàng không em?,product_inventory
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cho chú hỏi có bán iPad Gen 10 không?,product_search
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Hóc Môn không?,shop_lookup
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Máy này pin có trâu không cháu?,product_detail
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua Vietcombank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua Sacombank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Ở Bình Dương còn hàng không em?,product_inventory
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Máy này pin có trâu không cháu?,product_detail
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Shop có Xiaomi 13 hông?,product_search
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Hóc Môn không?,shop_lookup
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Dùng lâu có nóng máy không?,product_detail
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán Samsung Galaxy S24 không?,product_search
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Thanh toán qua Sacombank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Có shop nào gần Bình Dương không?,shop_lookup
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn Xiaomi 13 không em?,product_search
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,So giúp anh với Samsung được không?,product_compare
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn OPPO Reno không em?,product_search
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,So với Xiaomi 13 thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Shop có iPhone 14 hông?,product_search
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bình Dương còn máy này không?,product_inventory
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Bình Dương còn máy này không?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Shop có OPPO Reno hông?,product_search
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Dùng lâu có nóng máy không?,product_detail
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Bên mình còn iPhone 15 Pro Max không em?,product_search
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",So với iPhone 14 thì cái nào bền hơn?,product_compare
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cấu hình chơi game ổn không ạ?,product_detail
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Ở Quận 1 còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Máy này pin có trâu không cháu?,product_detail
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua Vietcombank có giảm không em?,product_promotion
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Bên mình còn OPPO Reno không em?,product_search
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Ở Thủ Đức còn hàng không em?,product_inventory
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So với iPhone 15 Pro Max thì cái nào bền hơn?,product_compare
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bình Dương còn máy này không?,product_inventory
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bình Dương còn máy này không?,product_inventory
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cấu hình chơi game ổn không ạ?,product_detail
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Shop có OPPO Reno hông?,product_search
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bình Dương còn máy này không?,product_inventory
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn iPhone 14 không em?,product_search
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bên mình còn iPhone 15 Pro Max không em?,product_search
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua VPBank có giảm không em?,product_promotion
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,So giúp anh với Samsung được không?,product_compare
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Ở Quận 7 còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Có shop nào gần Quận 7 không?,shop_lookup
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Ở Quận 7 còn hàng không em?,product_inventory
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Chỉ chú shop gần đây với,shop_lookup
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So với OPPO Reno thì cái nào bền hơn?,product_compare
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,So với iPad Gen 10 thì cái nào bền hơn?,product_compare
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cho chú hỏi có bán iPhone 14 không?,product_search
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Ở Thủ Đức còn hàng không em?,product_inventory
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Có shop nào gần Quận 1 không?,shop_lookup
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Bình Dương không?,shop_lookup
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua VPBank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Chỉ chú shop gần đây với,shop_lookup
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Shop có Xiaomi 13 hông?,product_search
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Shop có Xiaomi 13 hông?,product_search
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Máy này pin có trâu không cháu?,product_detail
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bình Dương còn máy này không?,product_inventory
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Ở Biên Hòa Đồng Nai còn hàng không em?,product_inventory
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán OPPO Reno không?,product_search
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cấu hình chơi game ổn không ạ?,product_detail
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cho chú hỏi có bán OPPO Reno không?,product_search
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán iPhone 14 không?,product_search
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn Samsung Galaxy S24 không em?,product_search
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So với iPhone 14 thì cái nào bền hơn?,product_compare
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",So với OPPO Reno thì cái nào bền hơn?,product_compare
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Bình Dương không?,shop_lookup
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,So với OPPO Reno thì cái nào bền hơn?,product_compare
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bình Dương còn máy này không?,product_inventory
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có shop nào gần Quận 7 không?,shop_lookup
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Shop có iPhone 14 hông?,product_search
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cho chú hỏi có bán iPad Gen 10 không?,product_search
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có shop nào gần Thủ Đức không?,shop_lookup
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Bên mình còn Samsung Galaxy S24 không em?,product_search
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Bên mình còn iPad Gen 10 không em?,product_search
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So giúp anh với Samsung được không?,product_compare
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chỉ chú shop gần đây với,shop_lookup
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",So với iPhone 15 Pro Max thì cái nào bền hơn?,product_compare
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Bên mình còn Samsung Galaxy S24 không em?,product_search
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có shop nào gần Hóc Môn không?,shop_lookup
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Shop có OPPO Reno hông?,product_search
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So giúp anh với Samsung được không?,product_compare
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Shop có OPPO Reno hông?,product_search
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Quận 1 thì mua ở đâu gần nhất?,shop_lookup
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán OPPO Reno không?,product_search
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Có shop nào gần Bình Dương không?,shop_lookup
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua Vietcombank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Ở Hóc Môn còn hàng không em?,product_inventory
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Thủ Đức không?,shop_lookup
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Dùng lâu có nóng máy không?,product_detail
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có shop nào gần Thủ Đức không?,shop_lookup
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cho chú hỏi có bán iPad Gen 10 không?,product_search
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Dùng lâu có nóng máy không?,product_detail
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có shop nào gần Bình Dương không?,shop_lookup
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Máy này pin có trâu không cháu?,product_detail
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Shop có Samsung Galaxy S24 hông?,product_search
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Máy này pin có trâu không cháu?,product_detail
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So giúp anh với Samsung được không?,product_compare
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Máy này pin có trâu không cháu?,product_detail
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bên mình còn iPad Gen 10 không em?,product_search
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cấu hình chơi game ổn không ạ?,product_detail
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua Techcombank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Bình Dương còn máy này không?,product_inventory
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Bên mình còn Samsung Galaxy S24 không em?,product_search
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Quận 7 không?,shop_lookup
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bên mình còn iPhone 14 không em?,product_search
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Máy này pin có trâu không cháu?,product_detail
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với OPPO Reno thì cái nào bền hơn?,product_compare
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Cho chú hỏi có bán OPPO Reno không?,product_search
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Ở Biên Hòa Đồng Nai còn hàng không em?,product_inventory
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn OPPO Reno không em?,product_search
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Bên mình còn iPhone 14 không em?,product_search
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Ở Bình Dương còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua VPBank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Shop có Samsung Galaxy S24 hông?,product_search
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Shop có iPhone 14 hông?,product_search
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán Samsung Galaxy S24 không?,product_search
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán iPad Gen 10 không?,product_search
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán iPad Gen 10 không?,product_search
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Shop có Xiaomi 13 hông?,product_search
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Nhà ở Quận 1 thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Quận 7 còn hàng không em?,product_inventory
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,So với Xiaomi 13 thì cái nào bền hơn?,product_compare
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",So với iPhone 15 Pro Max thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chỉ chú shop gần đây với,shop_lookup
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bên mình còn iPad Gen 10 không em?,product_search
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Bình Dương không?,shop_lookup
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Biên Hòa Đồng Nai còn hàng không em?,product_inventory
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Biên Hòa Đồng Nai thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Thanh toán qua Vietcombank có giảm không em?,product_promotion
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bình Dương còn máy này không?,product_inventory
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Shop có OPPO Reno hông?,product_search
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Shop có iPad Gen 10 hông?,product_search
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Bình Dương không?,shop_lookup
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Có shop nào gần Quận 7 không?,shop_lookup
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Bên mình còn Xiaomi 13 không em?,product_search
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Shop có iPad Gen 10 hông?,product_search
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Biên Hòa Đồng Nai còn hàng không em?,product_inventory
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Shop có iPad Gen 10 hông?,product_search
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Bên mình còn Samsung Galaxy S24 không em?,product_search
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Shop có iPad Gen 10 hông?,product_search
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cấu hình chơi game ổn không ạ?,product_detail
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So với OPPO Reno thì cái nào bền hơn?,product_compare
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bên mình còn iPad Gen 10 không em?,product_search
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Thanh toán qua Sacombank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với OPPO Reno thì cái nào bền hơn?,product_compare
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Thanh toán qua VPBank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Shop có Xiaomi 13 hông?,product_search
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Hóc Môn không?,shop_lookup
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua VPBank có giảm không em?,product_promotion
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Shop có iPad Gen 10 hông?,product_search
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bình Dương còn máy này không?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có shop nào gần Bình Dương không?,shop_lookup
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có shop nào gần Quận 7 không?,shop_lookup
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",So với Xiaomi 13 thì cái nào bền hơn?,product_compare
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chỉ chú shop gần đây với,shop_lookup
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Bình Dương còn máy này không?,product_inventory
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Dùng lâu có nóng máy không?,product_detail
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cấu hình chơi game ổn không ạ?,product_detail
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Có shop nào gần Quận 7 không?,shop_lookup
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Ở Bình Dương còn hàng không em?,product_inventory
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Bình Dương không?,shop_lookup
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Ở Quận 7 còn hàng không em?,product_inventory
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Máy này pin có trâu không cháu?,product_detail
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Shop có iPhone 14 hông?,product_search
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán Xiaomi 13 không?,product_search
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Có shop nào gần Thủ Đức không?,shop_lookup
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Nhà ở Quận 1 thì mua ở đâu gần nhất?,shop_lookup
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Có shop nào gần Quận 7 không?,shop_lookup
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Thanh toán qua VPBank có giảm không em?,product_promotion
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Ở Bình Dương còn hàng không em?,product_inventory
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So với Xiaomi 13 thì cái nào bền hơn?,product_compare
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Shop có OPPO Reno hông?,product_search
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Bên mình còn iPhone 14 không em?,product_search
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Bình Dương không?,shop_lookup
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So với iPhone 15 Pro Max thì cái nào bền hơn?,product_compare
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Ở Thủ Đức còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán iPhone 14 không?,product_search
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Bình Dương còn máy này không?,product_inventory
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán iPad Gen 10 không?,product_search
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Biên Hòa Đồng Nai thì mua ở đâu gần nhất?,shop_lookup
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán OPPO Reno không?,product_search
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chỉ chú shop gần đây với,shop_lookup
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán iPad Gen 10 không?,product_search
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Shop có iPhone 14 hông?,product_search
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Shop có Xiaomi 13 hông?,product_search
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Ở Quận 1 còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Máy này pin có trâu không cháu?,product_detail
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",So với iPhone 15 Pro Max thì cái nào bền hơn?,product_compare
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Biên Hòa Đồng Nai thì mua ở đâu gần nhất?,shop_lookup
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cho chú hỏi có bán iPad Gen 10 không?,product_search
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Shop có iPhone 14 hông?,product_search
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bên mình còn Xiaomi 13 không em?,product_search
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Cho chú hỏi có bán iPad Gen 10 không?,product_search
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có shop nào gần Hóc Môn không?,shop_lookup
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với iPhone 14 thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Cho chú hỏi có bán Xiaomi 13 không?,product_search
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Shop có Samsung Galaxy S24 hông?,product_search
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Hóc Môn còn hàng không em?,product_inventory
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Có shop nào gần Bình Dương không?,shop_lookup
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Ở Hóc Môn còn hàng không em?,product_inventory
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Hiện máy này có khuyến mãi gì không?,product_promotion
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Máy này pin có trâu không cháu?,product_detail
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Shop có Samsung Galaxy S24 hông?,product_search
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cho chú hỏi có bán iPad Gen 10 không?,product_search
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Nhà ở Biên Hòa Đồng Nai thì mua ở đâu gần nhất?,shop_lookup
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với Xiaomi 13 thì cái nào bền hơn?,product_compare
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Bình Dương còn hàng không em?,product_inventory
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Ở Biên Hòa Đồng Nai còn hàng không em?,product_inventory
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Bình Dương còn máy này không?,product_inventory
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Shop có Samsung Galaxy S24 hông?,product_search
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Bên mình còn iPhone 14 không em?,product_search
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Ở Hóc Môn còn hàng không em?,product_inventory
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Cho chú hỏi có bán iPad Gen 10 không?,product_search
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua Vietcombank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Bên mình còn iPad Gen 10 không em?,product_search
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán Samsung Galaxy S24 không?,product_search
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bình Dương còn máy này không?,product_inventory
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Máy này pin có trâu không cháu?,product_detail
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Bên mình còn iPhone 14 không em?,product_search
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bên mình còn Xiaomi 13 không em?,product_search
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Ở Quận 7 còn hàng không em?,product_inventory
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn iPad Gen 10 không em?,product_search
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Bên mình còn iPhone 15 Pro Max không em?,product_search
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Có shop nào gần Bình Dương không?,shop_lookup
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Dùng lâu có nóng máy không?,product_detail
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Dùng lâu có nóng máy không?,product_detail
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán iPhone 14 không?,product_search
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bên mình còn Samsung Galaxy S24 không em?,product_search
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Shop có iPhone 15 Pro Max hông?,product_search
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Bên mình còn Samsung Galaxy S24 không em?,product_search
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Biên Hòa Đồng Nai còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Ở Biên Hòa Đồng Nai còn hàng không em?,product_inventory
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Có shop nào gần Quận 7 không?,shop_lookup
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So giúp anh với Samsung được không?,product_compare
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có shop nào gần Thủ Đức không?,shop_lookup
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Bên mình còn Xiaomi 13 không em?,product_search
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Dùng lâu có nóng máy không?,product_detail
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Nhà ở Biên Hòa Đồng Nai thì mua ở đâu gần nhất?,shop_lookup
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán Samsung Galaxy S24 không?,product_search
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So với iPad Gen 10 thì cái nào bền hơn?,product_compare
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Dùng lâu có nóng máy không?,product_detail
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Chỉ chú shop gần đây với,shop_lookup
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có shop nào gần Thủ Đức không?,shop_lookup
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán Samsung Galaxy S24 không?,product_search
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Ở Hóc Môn còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So với iPhone 15 Pro Max thì cái nào bền hơn?,product_compare
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Bên mình còn OPPO Reno không em?,product_search
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Hóc Môn không?,shop_lookup
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Thanh toán qua Vietcombank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Thanh toán qua Vietcombank có giảm không em?,product_promotion
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Nhà ở Biên Hòa Đồng Nai thì mua ở đâu gần nhất?,shop_lookup
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cấu hình chơi game ổn không ạ?,product_detail
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Cho chú hỏi có bán iPad Gen 10 không?,product_search
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua Vietcombank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Hóc Môn còn hàng không em?,product_inventory
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có shop nào gần Quận 1 không?,shop_lookup
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Máy này pin có trâu không cháu?,product_detail
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán iPhone 14 không?,product_search
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chỉ chú shop gần đây với,shop_lookup
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Biên Hòa Đồng Nai thì mua ở đâu gần nhất?,shop_lookup
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So giúp anh với Samsung được không?,product_compare
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Ở Biên Hòa Đồng Nai còn hàng không em?,product_inventory
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua VPBank có giảm không em?,product_promotion
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Shop có iPhone 15 Pro Max hông?,product_search
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Shop có iPhone 14 hông?,product_search
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với iPhone 14 thì cái nào bền hơn?,product_compare
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,So với Xiaomi 13 thì cái nào bền hơn?,product_compare
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có shop nào gần Bình Dương không?,shop_lookup
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có shop nào gần Quận 1 không?,shop_lookup
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Ở Hóc Môn còn hàng không em?,product_inventory
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Shop có iPad Gen 10 hông?,product_search
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Thanh toán qua Techcombank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Thanh toán qua VPBank có giảm không em?,product_promotion
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn Xiaomi 13 không em?,product_search
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn Samsung Galaxy S24 không em?,product_search
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Quận 1 không?,shop_lookup
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Ở Quận 7 còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Hóc Môn không?,shop_lookup
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua Vietcombank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bên mình còn iPad Gen 10 không em?,product_search
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn iPad Gen 10 không em?,product_search
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán Samsung Galaxy S24 không?,product_search
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cấu hình chơi game ổn không ạ?,product_detail
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,So với iPhone 14 thì cái nào bền hơn?,product_compare
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Bên mình còn Samsung Galaxy S24 không em?,product_search
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Có shop nào gần Hóc Môn không?,shop_lookup
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với iPhone 14 thì cái nào bền hơn?,product_compare
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua VPBank có giảm không em?,product_promotion
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bình Dương còn máy này không?,product_inventory
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với OPPO Reno thì cái nào bền hơn?,product_compare
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Shop có iPhone 14 hông?,product_search
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Ở Thủ Đức còn hàng không em?,product_inventory
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Máy này pin có trâu không cháu?,product_detail
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Ở Hóc Môn còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cho chú hỏi có bán Samsung Galaxy S24 không?,product_search
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Nhà ở Biên Hòa Đồng Nai thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Shop có Samsung Galaxy S24 hông?,product_search
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua VPBank có giảm không em?,product_promotion
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với iPhone 14 thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Bình Dương còn máy này không?,product_inventory
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So với iPhone 15 Pro Max thì cái nào bền hơn?,product_compare
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Shop có Samsung Galaxy S24 hông?,product_search
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Thủ Đức không?,shop_lookup
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Shop có iPhone 15 Pro Max hông?,product_search
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Hóc Môn không?,shop_lookup
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Dùng lâu có nóng máy không?,product_detail
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Dùng lâu có nóng máy không?,product_detail
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,So giúp anh với Samsung được không?,product_compare
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Máy này pin có trâu không cháu?,product_detail
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua VPBank có giảm không em?,product_promotion
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Shop có iPhone 14 hông?,product_search
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Dùng lâu có nóng máy không?,product_detail
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có shop nào gần Quận 1 không?,shop_lookup
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Máy này pin có trâu không cháu?,product_detail
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bình Dương còn máy này không?,product_inventory
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Quận 7 không?,shop_lookup
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua Vietcombank có giảm không em?,product_promotion
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Ở Biên Hòa Đồng Nai còn hàng không em?,product_inventory
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua VPBank có giảm không em?,product_promotion
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua Vietcombank có giảm không em?,product_promotion
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Bình Dương còn máy này không?,product_inventory
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Máy này pin có trâu không cháu?,product_detail
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Biên Hòa Đồng Nai còn hàng không em?,product_inventory
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Gần nhà cô có sẵn không con?,product_inventory
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán OPPO Reno không?,product_search
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cấu hình chơi game ổn không ạ?,product_detail
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cho chú hỏi có bán Samsung Galaxy S24 không?,product_search
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bên mình còn Xiaomi 13 không em?,product_search
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chỉ chú shop gần đây với,shop_lookup
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Nhà ở Quận 1 thì mua ở đâu gần nhất?,shop_lookup
+product_promotion,Dạ hiện tại iPhone 15 Pro Max đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Máy này pin có trâu không cháu?,product_detail
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Nhà ở Biên Hòa Đồng Nai thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có shop nào gần Quận 7 không?,shop_lookup
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Bình Dương thì mua ở đâu gần nhất?,shop_lookup
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Hóc Môn không?,shop_lookup
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",So với OPPO Reno thì cái nào bền hơn?,product_compare
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",So với iPad Gen 10 thì cái nào bền hơn?,product_compare
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Dùng lâu có nóng máy không?,product_detail
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Gần nhà cô có sẵn không con?,product_inventory
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cho chú hỏi có bán Xiaomi 13 không?,product_search
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Ở Quận 7 còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Shop có iPad Gen 10 hông?,product_search
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn OPPO Reno không em?,product_search
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Thanh toán qua Techcombank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Máy này pin có trâu không cháu?,product_detail
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Nhà ở Thủ Đức thì mua ở đâu gần nhất?,shop_lookup
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Nhà ở Quận 1 thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Shop có Xiaomi 13 hông?,product_search
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Ở Bình Dương còn hàng không em?,product_inventory
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So giúp anh với Samsung được không?,product_compare
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Shop có iPad Gen 10 hông?,product_search
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Shop có Samsung Galaxy S24 hông?,product_search
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Quận 7 còn hàng không em?,product_inventory
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có shop nào gần Thủ Đức không?,shop_lookup
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn iPad Gen 10 không em?,product_search
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Ở Bình Dương còn hàng không em?,product_inventory
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Cho chú hỏi có bán iPhone 14 không?,product_search
+shop_lookup,Dạ gần Bình Dương bên em có shop đang hoạt động ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Ở Hóc Môn còn hàng không em?,product_inventory
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Máy này pin có trâu không cháu?,product_detail
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bên mình còn Xiaomi 13 không em?,product_search
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Chỉ chú shop gần đây với,shop_lookup
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Ở Quận 7 còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Quận 7 còn hàng không em?,product_inventory
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Bình Dương, anh/chị muốn em tìm shop gần hơn không ạ?",Ở Bình Dương còn hàng không em?,product_inventory
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Có shop nào gần Quận 1 không?,shop_lookup
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Ở Bình Dương còn hàng không em?,product_inventory
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Chỉ chú shop gần đây với,shop_lookup
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Dùng lâu có nóng máy không?,product_detail
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Quận 1, anh/chị muốn em tìm shop gần hơn không ạ?",Máy này pin có trâu không cháu?,product_detail
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Cho chú hỏi có bán iPhone 15 Pro Max không?,product_search
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bên mình còn Xiaomi 13 không em?,product_search
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Shop có Xiaomi 13 hông?,product_search
+product_compare,Dạ nếu so với Xiaomi 13 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Thanh toán qua Vietcombank có giảm không em?,product_promotion
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bên mình còn Xiaomi 13 không em?,product_search
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Thanh toán qua VPBank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_search,"Dạ bên em hiện có iPhone 15 Pro Max, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn Samsung Galaxy S24 không em?,product_search
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại OPPO Reno vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Gần nhà cô có sẵn không con?,product_inventory
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Bên mình còn iPad Gen 10 không em?,product_search
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Shop có iPhone 14 hông?,product_search
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Shop có iPhone 15 Pro Max hông?,product_search
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_promotion,Dạ hiện tại OPPO Reno đang có ưu đãi tùy hình thức thanh toán ạ.,So với OPPO Reno thì cái nào bền hơn?,product_compare
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Bình Dương còn hàng không em?,product_inventory
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua Sacombank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại iPhone 14 đang có ưu đãi tùy hình thức thanh toán ạ.,Chỉ chú shop gần đây với,shop_lookup
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,So giúp anh với Samsung được không?,product_compare
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Bên mình còn iPhone 15 Pro Max không em?,product_search
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Ở Thủ Đức còn hàng không em?,product_inventory
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_search,"Dạ bên em hiện có Xiaomi 13, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Ở Hóc Môn còn hàng không em?,product_inventory
+product_detail,"Dạ OPPO Reno có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_detail,"Dạ iPhone 15 Pro Max có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Shop có iPhone 15 Pro Max hông?,product_search
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So giúp anh với Samsung được không?,product_compare
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Hóc Môn không?,shop_lookup
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Thanh toán qua VPBank có giảm không em?,product_promotion
+shop_lookup,Dạ gần Quận 1 bên em có shop đang hoạt động ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+shop_lookup,Dạ gần Thủ Đức bên em có shop đang hoạt động ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Gần nhà cô có sẵn không con?,product_inventory
+product_search,"Dạ bên em hiện có Samsung Galaxy S24, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Dùng lâu có nóng máy không?,product_detail
+product_search,"Dạ bên em hiện có iPhone 14, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",Ở Bình Dương còn hàng không em?,product_inventory
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,So giúp anh với Samsung được không?,product_compare
+product_compare,Dạ nếu so với iPhone 15 Pro Max thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với iPhone 15 Pro Max thì cái nào bền hơn?,product_compare
+shop_lookup,Dạ gần Quận 7 bên em có shop đang hoạt động ạ.,Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Dùng lâu có nóng máy không?,product_detail
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua Techcombank có giảm không em?,product_promotion
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Cấu hình chơi game ổn không ạ?,product_detail
+product_promotion,Dạ hiện tại iPad Gen 10 đang có ưu đãi tùy hình thức thanh toán ạ.,Thanh toán qua Vietcombank có giảm không em?,product_promotion
+product_compare,Dạ nếu so với OPPO Reno thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Ở Hóc Môn còn hàng không em?,product_inventory
+product_detail,"Dạ Samsung Galaxy S24 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Máy này pin có trâu không cháu?,product_detail
+product_inventory,"Hiện tại iPhone 15 Pro Max vẫn còn hàng tại Quận 7, anh/chị muốn em tìm shop gần hơn không ạ?",Cấu hình chơi game ổn không ạ?,product_detail
+product_inventory,"Hiện tại iPhone 14 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Nhà ở Biên Hòa Đồng Nai thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Có shop nào gần Hóc Môn không?,shop_lookup
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Bình Dương còn máy này không?,product_inventory
+product_inventory,"Hiện tại Samsung Galaxy S24 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",Bên mình còn Samsung Galaxy S24 không em?,product_search
+shop_lookup,Dạ gần Hóc Môn bên em có shop đang hoạt động ạ.,Chơi game nên chọn máy nào giữa hai con này?,product_compare
+product_compare,Dạ nếu so với Samsung Galaxy S24 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,So với Samsung Galaxy S24 thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại Samsung Galaxy S24 đang có ưu đãi tùy hình thức thanh toán ạ.,Hiện máy này có khuyến mãi gì không?,product_promotion
+product_detail,"Dạ Xiaomi 13 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Thanh toán qua Sacombank có giảm không em?,product_promotion
+product_detail,"Dạ iPad Gen 10 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Nhà ở Quận 7 thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPhone 14 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Nhà ở Hóc Môn thì mua ở đâu gần nhất?,shop_lookup
+product_compare,Dạ nếu so với iPad Gen 10 thì mẫu còn lại có ưu điểm về hiệu năng và pin ạ.,Có ưu đãi gì cho học sinh sinh viên không?,product_promotion
+product_inventory,"Hiện tại iPad Gen 10 vẫn còn hàng tại Hóc Môn, anh/chị muốn em tìm shop gần hơn không ạ?",Hiện máy này có khuyến mãi gì không?,product_promotion
+product_search,"Dạ bên em hiện có iPad Gen 10, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So giúp anh với Samsung được không?,product_compare
+product_search,"Dạ bên em hiện có OPPO Reno, anh/chị cần em hỗ trợ thông tin gì thêm không ạ?",So với OPPO Reno thì cái nào bền hơn?,product_compare
+product_promotion,Dạ hiện tại Xiaomi 13 đang có ưu đãi tùy hình thức thanh toán ạ.,Máy này pin có trâu không cháu?,product_detail
+shop_lookup,Dạ gần Biên Hòa Đồng Nai bên em có shop đang hoạt động ạ.,Có shop nào gần Biên Hòa Đồng Nai không?,shop_lookup
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Thủ Đức, anh/chị muốn em tìm shop gần hơn không ạ?",Cho chú hỏi có bán Xiaomi 13 không?,product_search
+product_detail,"Dạ iPhone 14 có pin khá tốt, phù hợp chơi game và sử dụng lâu dài ạ.",Nhà ở Quận 1 thì mua ở đâu gần nhất?,shop_lookup
+product_inventory,"Hiện tại Xiaomi 13 vẫn còn hàng tại Biên Hòa Đồng Nai, anh/chị muốn em tìm shop gần hơn không ạ?",So giúp anh với Samsung được không?,product_compare
